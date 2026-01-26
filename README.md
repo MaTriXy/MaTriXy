@@ -34,7 +34,7 @@
 
 ### 🎵 What I'm listening to
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=1220060123&cover_image=true&theme=novatoken)](https://open.spotify.com/user/1220060123)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=1220060123&cover_image=true&theme=novatorem)](https://open.spotify.com/user/1220060123)
 
 ---
 
