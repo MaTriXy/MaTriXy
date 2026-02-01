@@ -18,7 +18,7 @@
 
 | | |
 |:--|:--|
-| [**claude-auto-skill**](https://github.com/MaTriXy/claude-auto-skill) | Create skills from your workflows — session analysis + LSP + design patterns. |
+| [**auto-skill**](https://github.com/MaTriXy/auto-skill) | Create skills from your workflows — session analysis + LSP + design patterns. |
 | [**claude-swarm-orchestration**](https://github.com/MaTriXy/claude-swarm-orchestration) | Multi-agent coordination with TeammateTool & Task system. |
 | [**Agent-Registry**](https://github.com/MaTriXy/Agent-Registry) | Lazy-load Claude Code agents → save 70–90% context. |
 | [**cli-battle-royal**](https://github.com/MaTriXy/cli-battle-royal) | Gemini vs Claude Code vs Codex — same tasks, real comparison. |
